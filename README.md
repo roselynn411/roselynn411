@@ -1,5 +1,4 @@
-<img src="https://github.com/roselynn411/roselynn411/blob/main/frempongdev.png
-" alt="banner that says Roselynn Frempong- software developer, QA Engineer, Educator">
+<img src="https://github.com/roselynn411/roselynn411/blob/main/frempongdev.png" alt="banner that says Roselynn Frempong- software developer, QA Engineer, Educator">
 
 <!-- ### Hi there 👋
 
